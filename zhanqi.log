@@ -1,0 +1,4 @@
+2015-11-19 01:35:07,339 [get] {"code":0,"data":{"img":"http:\/\/captcha.zhanqi.tv\/?a=show&datatype=json&key=564cb6cb1e246","verify":"http:\/\/captcha.zhanqi.tv\/?a=ajax_check&datatype=jsonp&key=564cb6cb1e246","captchaKey":"564cb6cb1e246"}}
+2015-11-19 01:35:07,339 [img] http://captcha.zhanqi.tv/?a=show&datatype=json&key=564cb6cb1e246
+2015-11-19 01:35:10,928 [post] http://www.zhanqi.tv/api/auth/user.login?captcha=dfge&account=zephyrzoom&password=fuckyou&captchaKey=564cb6cb1e246
+2015-11-19 01:35:11,042 [login] {"code":2,"message":"验证码错误"}
